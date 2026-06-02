@@ -1,0 +1,318 @@
+{
+  "business": {
+    "name": "EAT PUNJAB",
+    "category": "Punjabi restaurant",
+    "address": "\nFf 102, shilp square, Gurukul Rd, opp. himalaya mall, Bodakdev, Ahmedabad, Gujarat 380052",
+    "phone": "\n099245 03837",
+    "email": "",
+    "website": "https://www.eatpunjab.in/",
+    "mapUrl": "https://www.google.com/maps/place/EAT+PUNJAB/@23.0454031,72.5303036,17z/data=!3m1!4b1!4m6!3m5!1s0x395e853ffc72d013:0xd13fbe85ffb160b5!8m2!3d23.0454031!4d72.5303036!16s%2Fg%2F11p77d9pnc?entry=ttu&g_ep=EgoyMDI2MDUyNy4wIKXMDSoASAFQAw%3D%3D",
+    "latitude": "23.0454031",
+    "longitude": "72.5303036",
+    "rating": "",
+    "reviewsCount": "1352",
+    "openingHours": "Show open hours for the week",
+    "logo": "/images/logo.jpg",
+    "images": [
+      "/images/img_1780389467972_0.jpg",
+      "/images/gmap_1780389468415_1.jpg",
+      "/images/gmap_1780389468500_3.jpg",
+      "/images/gmap_1780389468537_4.jpg",
+      "/images/gmap_1780389468567_5.jpg",
+      "/images/gmap_1780389468619_6.jpg",
+      "/images/gmap_1780389468655_7.jpg",
+      "/images/gmap_1780389468691_8.jpg",
+      "/images/gmap_1780389468720_9.jpg",
+      "/images/gmap_1780389469121_10.jpg",
+      "/images/gmap_1780389469157_11.jpg",
+      "/images/gmap_1780389469191_12.jpg",
+      "/images/gmap_1780389469259_13.jpg",
+      "/images/gmap_1780389469289_14.jpg",
+      "/images/gmap_1780389469321_15.jpg",
+      "/images/gmap_1780389470227_16.jpg",
+      "/images/site_0.jpg",
+      "/images/site_1.jpg",
+      "/images/gmap_1780389468384_0.jpg"
+    ],
+    "description": "",
+    "socials": {}
+  },
+  "content": {
+    "hero": {
+      "headline": "Authentic Punjabi Flavors at Ff 102",
+      "subheadline": "From our kitchen in Bodakdev to your table, we bring generations of traditional Punjabi recipes alive. Every bite tells a story of heritage, warmth, and the rich spices that make Punjab unforgettable.",
+      "cta": "Order Now",
+      "ctaSecondary": "View Menu"
+    },
+    "about": {
+      "title": "Our Journey from Punjab to Ff 102",
+      "story": "At EAT PUNJAB, we've transformed our cozy corner at Ff 102 into a gateway to authentic Punjab. Our chefs carry forward time-honored recipes, using traditional techniques and fresh spices that transport you straight to the heart of Punjab. Located conveniently opposite Himalaya Mall on Gurukul Road, we've become Bodakdev's go-to destination for families craving genuine Punjabi hospitality. Every dish we serve reflects our deep respect for Punjabi culinary traditions.",
+      "highlights": [
+        {
+          "icon": "🔥",
+          "title": "Clay Oven Fresh Naans",
+          "description": "Hand-rolled and baked in our traditional tandoor for that perfect char and softness"
+        },
+        {
+          "icon": "🌶️",
+          "title": "House-Ground Spice Blends",
+          "description": "We grind our masalas daily using recipes passed down through generations"
+        },
+        {
+          "icon": "👨‍🍳",
+          "title": "Punjab-Trained Chefs",
+          "description": "Our kitchen team learned their craft in the villages and cities of Punjab itself"
+        },
+        {
+          "icon": "🥛",
+          "title": "Fresh Daily Lassi",
+          "description": "Creamy, cooling lassi made fresh every morning with authentic churning methods"
+        }
+      ]
+    },
+    "services": {
+      "title": "How We Serve Punjab on a Plate",
+      "items": [
+        {
+          "icon": "🍽️",
+          "title": "Dine-In Experience",
+          "description": "Settle into our warm, welcoming space where the aroma of fresh rotis and sizzling tandoor fills the air. Perfect for family gatherings and celebrations."
+        },
+        {
+          "icon": "📦",
+          "title": "Takeaway & Delivery",
+          "description": "Enjoy our authentic flavors at home with carefully packed meals that retain their warmth and taste. Quick pickup from Ff 102 or delivery to your doorstep."
+        },
+        {
+          "icon": "🎉",
+          "title": "Catering Services",
+          "description": "Bring the taste of Punjab to your special occasions. We handle everything from intimate family dinners to large celebrations with authentic flair."
+        },
+        {
+          "icon": "🍛",
+          "title": "Tiffin Services",
+          "description": "Regular home-cooked Punjabi meals delivered fresh to your office or home. Like having a Punjabi kitchen without the cooking."
+        },
+        {
+          "icon": "👶",
+          "title": "Family-Friendly Dining",
+          "description": "Spacious seating and kid-friendly options make us perfect for multi-generation family meals. High chairs and patient service included."
+        },
+        {
+          "icon": "🌱",
+          "title": "Vegetarian Specialties",
+          "description": "Extensive pure-veg menu featuring dal makhani, paneer dishes, and seasonal vegetables prepared with ghee and love."
+        }
+      ]
+    },
+    "testimonials": {
+      "title": "Stories from Our Extended Family",
+      "items": [
+        {
+          "name": "Rajesh Patel",
+          "role": "Regular Customer",
+          "text": "The butter chicken here reminds me of my trips to Amritsar. Authentic taste and the naans are perfectly soft. My family's new favorite spot in Bodakdev.",
+          "rating": 5
+        },
+        {
+          "name": "Priya Sharma",
+          "role": "Food Enthusiast",
+          "text": "Finally found a place that makes proper dal makhani! The rich, creamy texture and overnight slow-cooking really shows. Worth the drive from anywhere in Ahmedabad.",
+          "rating": 5
+        },
+        {
+          "name": "Vikram Singh",
+          "role": "Punjabi Food Lover",
+          "text": "As someone from Punjab, I'm picky about authentic taste. EAT PUNJAB gets it right - from the tandoor roti to the perfectly spiced chole. Feels like home.",
+          "rating": 5
+        }
+      ]
+    },
+    "faq": {
+      "title": "Everything You Want to Know",
+      "items": [
+        {
+          "question": "Do you serve authentic Punjabi-style tandoor items?",
+          "answer": "Yes! We have a traditional clay tandoor where we bake fresh naans, rotis, and tandoori items daily. You can even watch our chefs at work."
+        },
+        {
+          "question": "Is parking available near Ff 102 location?",
+          "answer": "Absolutely. Shilp Square has ample parking space, and being opposite Himalaya Mall, you'll find convenient parking options for dining with us."
+        },
+        {
+          "question": "Can you accommodate large family gatherings?",
+          "answer": "We love hosting families! Our spacious dining area can accommodate groups, and we offer special family platters. For larger parties, our catering service works perfectly."
+        },
+        {
+          "question": "Do you offer pure vegetarian options?",
+          "answer": "Yes, we have an extensive vegetarian menu with traditional dishes like dal makhani, paneer specialties, and seasonal vegetable curries - all prepared in separate cooking areas."
+        },
+        {
+          "question": "How spicy is your food, and can you adjust the heat level?",
+          "answer": "Our chefs can adjust spice levels to your preference. We mark spice levels on our menu and always ask about your heat tolerance when you order."
+        },
+        {
+          "question": "What are your most popular dishes at EAT PUNJAB?",
+          "answer": "Our butter chicken, dal makhani, fresh tandoor naans, and creamy lassi are customer favorites. The mixed vegetable curry and chole bhature are also highly recommended."
+        }
+      ]
+    },
+    "contact": {
+      "title": "Find Us at Ff 102, Bodakdev",
+      "subtitle": "Ready to experience authentic Punjab? We're just opposite Himalaya Mall, waiting to serve you."
+    },
+    "cta": {
+      "title": "Craving Authentic Punjabi Tonight?",
+      "subtitle": "Your table at Ff 102 is ready, and the tandoor is hot",
+      "button": "Order Now"
+    },
+    "meta": {
+      "title": "EAT PUNJAB - Authentic Punjabi Restaurant | Ff 102, Bodakdev, Ahmedabad",
+      "description": "Authentic Punjabi cuisine at Ff 102, Bodakdev. Fresh tandoor naans, butter chicken, dal makhani. Opposite Himalaya Mall. Order now: 099245 03837"
+    }
+  },
+  "pages": [
+    {
+      "slug": "",
+      "title": "Home",
+      "type": "home",
+      "sections": [
+        {
+          "id": "hero",
+          "type": "hero",
+          "variant": "split"
+        },
+        {
+          "id": "gallery-preview",
+          "type": "gallery",
+          "variant": "grid"
+        },
+        {
+          "id": "testimonials-preview",
+          "type": "testimonials",
+          "variant": "cards"
+        },
+        {
+          "id": "home-cta",
+          "type": "cta",
+          "variant": "banner"
+        }
+      ]
+    },
+    {
+      "slug": "about",
+      "title": "Our Journey from Punjab to Ff 102",
+      "type": "about",
+      "sections": [
+        {
+          "id": "about-full",
+          "type": "narrative",
+          "variant": "split-image"
+        },
+        {
+          "id": "highlights",
+          "type": "grid",
+          "columns": 2,
+          "variant": "compact"
+        }
+      ]
+    },
+    {
+      "slug": "services",
+      "title": "How We Serve Punjab on a Plate",
+      "type": "services",
+      "sections": [
+        {
+          "id": "services-full",
+          "type": "grid",
+          "columns": 3,
+          "variant": "detailed"
+        }
+      ]
+    },
+    {
+      "slug": "gallery",
+      "title": "Gallery",
+      "type": "gallery",
+      "sections": [
+        {
+          "id": "gallery-full",
+          "type": "gallery",
+          "variant": "masonry"
+        }
+      ]
+    },
+    {
+      "slug": "contact",
+      "title": "Find Us at Ff 102, Bodakdev",
+      "type": "contact",
+      "sections": [
+        {
+          "id": "contact-full",
+          "type": "contact",
+          "variant": "split-map"
+        }
+      ]
+    }
+  ],
+  "navigation": [
+    {
+      "label": "Home",
+      "href": "/"
+    },
+    {
+      "label": "About",
+      "href": "/about"
+    },
+    {
+      "label": "Services",
+      "href": "/services"
+    },
+    {
+      "label": "Gallery",
+      "href": "/gallery"
+    },
+    {
+      "label": "Contact",
+      "href": "/contact"
+    }
+  ],
+  "design": {
+    "colors": {
+      "primary": "#d97706",
+      "primaryHover": "#b45309",
+      "secondary": "#dc2626",
+      "accent": "#f59e0b",
+      "background": "#faf7f2",
+      "surface": "#ffffff",
+      "text": "#1f2937",
+      "textMuted": "#6b7280",
+      "border": "#e5e7eb"
+    },
+    "typography": {
+      "headingFont": "Playfair Display",
+      "bodyFont": "DM Sans",
+      "headingWeight": 700,
+      "bodyWeight": 400,
+      "baseSize": 16,
+      "scale": 1.25,
+      "lineHeight": 1.6
+    },
+    "spacing": {
+      "sectionPadding": "80px",
+      "containerWidth": "1200px",
+      "cardPadding": "24px",
+      "gap": "24px"
+    },
+    "radius": {
+      "button": "8px",
+      "card": "12px",
+      "image": "8px"
+    },
+    "shadows": {
+      "card": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+      "cardHover": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)"
+    },
+    "darkMode": false
+  }
+}
